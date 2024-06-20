@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19F101" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ENROLL_LIST" representedClassName="ENROLL_LIST" syncable="YES" codeGenerationType="class">
+        <attribute name="cl_code" optional="YES" attributeType="String"/>
+        <attribute name="class_name" optional="YES" attributeType="String"/>
+        <attribute name="sc_code" optional="YES" attributeType="String"/>
+        <attribute name="sc_grade" optional="YES" attributeType="String"/>
+        <attribute name="sc_group" optional="YES" attributeType="String"/>
+        <attribute name="sc_locate" optional="YES" attributeType="String"/>
+        <attribute name="sc_location" optional="YES" attributeType="String"/>
+        <attribute name="sc_logo" optional="YES" attributeType="String"/>
+        <attribute name="sc_name" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="ENROLL_LIST" positionX="-36" positionY="-9" width="128" height="178"/>
+    </elements>
+</model>

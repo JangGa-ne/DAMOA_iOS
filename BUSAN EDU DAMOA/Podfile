@@ -1,0 +1,33 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+target 'busan-damoa' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for busan-damoa
+  
+  # 메뉴
+  pod 'AEAccordion'
+
+  # FIREBASE
+  pod 'Firebase/Core'
+  pod 'Firebase/Messaging'
+
+  # 통신
+  pod 'Alamofire', '4.9'
+
+  # 이미지 비동기화
+  pod 'Nuke'
+
+  # 첨부파일
+  pod 'AFNetworking'
+
+  # 웹 이미지
+  pod 'SDWebImage', '5.0'
+
+  # 캘린더
+  pod 'CVCalendar'
+
+  # 유튜브
+  pod 'YoutubePlayer-in-WKWebView', '0.3.0'
+end

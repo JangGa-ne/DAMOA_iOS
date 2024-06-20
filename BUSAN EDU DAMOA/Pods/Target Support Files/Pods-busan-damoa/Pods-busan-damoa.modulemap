@@ -1,0 +1,6 @@
+framework module Pods_busan_damoa {
+  umbrella header "Pods-busan-damoa-umbrella.h"
+
+  export *
+  module * { export * }
+}
